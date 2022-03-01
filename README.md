@@ -9,4 +9,5 @@
 
 掌握和精通编程的最好方法就是编写很多很多的代码。 在学习编程的过程中，掌握第二门语言最为艰难。第一门编程语言帮助形成最基本的编程思维模式，但是，当开始学习第二门编程语言的时候，就必须重新审视这些基本原则和概念。
 没有最好的编程语言。有些编程语言及工具可能在一些特定问题上优于其它编程语言。当学习不同的编程语言时，不要试图迁移已有的编程思维模式。相反，应该在新的环境下，学习如何按照新习惯或者新模式进行思考与设计。
-> [What I tell all new programmers](https://josephg.com/blog/what-i-tell-all-new-programmers/)
+
+> <a href="https://josephg.com/blog/what-i-tell-all-new-programmers/" target="_blank">What I tell all new programmers</a>
