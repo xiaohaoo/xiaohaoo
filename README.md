@@ -11,6 +11,6 @@
 
 ### Love Open Source; Keep Exploring; Sharing Technology
 
-### 技术进步在于理念的创新。
+### 技术的进步在于理念的创新。
 
 > [What I tell all new programmers](https://josephg.com/blog/what-i-tell-all-new-programmers/)
