@@ -17,7 +17,7 @@
 - [Java开发规约（阿里巴巴版）](./assets/Java开发手册-嵩山版.pdf)
 - 约定大于配置
 
-<hr/>
+<div style="height: 1px;border-bottom: 1px solid lightgray"/>
 
 > 我曾七次鄙视自己的灵魂  
 > 第一次，当它本可进取时，却故作谦卑；  
